@@ -5,4 +5,6 @@ First install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermon
 
 Next, click [here to install the userscript](https://github.com/jankeirse/zabbix-select2-dropdowns/raw/master/zabbix-select2-dropdowns.user.js).
 
+Make sure Tampermonkey is enabled, [as explained here](https://www.tampermonkey.net/faq.php?ext=dhdg#Q403)
+
 If your zabbix hostname does not start with https://zabbix you will have to go to the script settings in Tampermonkey to enable it on your hostname. 
