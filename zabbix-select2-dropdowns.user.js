@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  make zabbix useable in large deployments
-// @author       Jan Keirse <jan.keirse@tvh.com
+// @author       Jan Keirse <jan.keirse@tvh.com>
 // @grant        GM_getResourceText
 // @include       https://zabbix*
 // @resource select2.js https://cdn.jsdelivr.net/npm/select2@4.0.8/dist/js/select2.full.min.js
