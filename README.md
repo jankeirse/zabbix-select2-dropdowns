@@ -1,7 +1,9 @@
 # zabbix-select2-dropdowns
 Tampermonkey script for replacing dropdowns in zabbix with [select2](https://select2.org/) type-ahead-search dropdowns. 
 
-First install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) in Google Chrome.
+## Usage: 
+
+First install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) in Google Chrome or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) in Firefox.
 
 Next, click [here to install the userscript](https://github.com/jankeirse/zabbix-select2-dropdowns/raw/master/zabbix-select2-dropdowns.user.js).
 
